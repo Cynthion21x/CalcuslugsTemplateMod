@@ -1,0 +1,12 @@
+{
+
+    "name": "Mod Template",
+    "desc": "The default mod, how boring",
+    "author": "Cynthion21x",
+
+    "version": "1.0.0",
+    "gameVersion": "1.0.0",
+
+    "overrides": true
+
+}
